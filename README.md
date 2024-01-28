@@ -15,7 +15,8 @@ Por fim, caso não queira pesquisar por um pokemon específico, ainda há a poss
 ## Demonstração
 
 
-![2024-01-28 18-47-29](https://github.com/barbatv/pokedex/assets/56331255/45e3b866-d969-4701-bf37-8e9c398f5227)
+![2024-01-28 18-47-29](https://github.com/barbatv/pokedex/assets/56331255/dab3103f-4dce-4e5f-ab5f-24dc6d0205f2)
+
 
 
 ## Aprendizados
